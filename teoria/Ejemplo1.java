@@ -2,6 +2,7 @@ public class Ejemplo1{
 	public static void main (String args []){
 		
 		int numero = 150;
+		
 		if (numero % 7 == 0){
 			System.out.println( numero + " es divisible por 7 ");
 		}
